@@ -1,0 +1,21 @@
+from ocempgui.widgets import Constants
+
+# Variables
+_normal = Constants.STATE_NORMAL
+_entered = Constants.STATE_ENTERED
+_active = Constants.STATE_ACTIVE
+_insensitive = Constants.STATE_INSENSITIVE
+
+
+# Change the 2DGraph colors to black background with Yellow axis & axis labels
+diagram = {"fgcolor" : { _normal : (255, 255, 0),
+                        _entered : (255, 255, 0),
+                        _active : (255, 255, 0),
+                        _insensitive : (255, 255, 0) },
+
+          "bgcolor" : { _normal : (0, 0, 0),
+                        _entered : (0, 0, 0),
+                        _active : (0, 0, 0),
+                        _insensitive : (0, 0, 0) }
+
+          }
