@@ -5,7 +5,7 @@ The purpose of this project was to develop a Thermal Camera GUI on the Raspberry
 
 [GRID-EYE FAQ](../REF/GRID-EYE FAQ.pdf)
 
-[GRID_EYE CHARACTERISTICS](./REF/GRID-EYE CHARACTERISTICS.pdf)
+[GRID_EYE CHARACTERISTICS](/REF/GRID-EYE CHARACTERISTICS.pdf)
 
 
 # AMG88-Thermal-Camera GUI Description
