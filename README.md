@@ -5,7 +5,7 @@ The purpose of this project was to develop a Thermal Camera GUI on the Raspberry
 [GRID-EYE FAQ](DOC/grideye_characteristics.pdf)  
 # AMG88-Thermal-Camera GUI Description
 Although the Thermal Imaging GUI is to a large extent based on the Adafruit sample code, it is unique in that it extends the Pygame functionality through the use of the [OceampGUI](http://ocemp.sourceforge.net/gui.html) tool kit. The toolkit is a fairly rich set of indicator and control widgets that provide a technical feel to the GUI user experience. In fact the largest effort of the project was to learn and impliment the OceampGUI features. Although development of the toolset appears to be inactive for quite sometime it was fairly mature and easy to user with excellent documentation.    
-![GUI_Description](IMG/GUI_Description.png)*GUI Features*
+![GUI_Description](IMG/GUI_Description2.png)*GUI Features*
 
 
 
